@@ -1,6 +1,16 @@
+/*
+    This is the player class ,encapsulates stuff related to the Girl(Player)
+*/
 class Player{
+    /*
+        x: x-coordinte of top left corner of the player
+        y: y- coordinate of top left corener of the player
+        r: size of the player
+        g: gravity
+        ind: index variable used to traverse in playerRun array
+    */
     constructor(){
-        this.x=10;
+        this.x=10;  
         this.y=height-100;
         this.r=100;
         this.vy=0;
@@ -9,7 +19,7 @@ class Player{
         this.speed=1;
         this.ind=0;
     }
-    
+    //this methd is used to show the player
     show(){
         noFill();
         //rect(this.x+10,this.y+5,this.r-20,this.r);
