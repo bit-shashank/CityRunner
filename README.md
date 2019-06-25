@@ -13,3 +13,5 @@
   * Misti likes chocolates very much, you may add chocolates for Misti to collect while she is on her way to home.
   * Adding sounds!
   * Adding a leaderboard
+  * Adding a loading bar while the game assets are downloaded
+  * Increasing game speed as more points are gained
