@@ -2,7 +2,7 @@
   A simple 2d endless runner game made using p5.js, a javascript library.
 
 # How to Play
-  The game is currently live on the web and can be played [HERE](https://cityrunner.000webhostapp.com/)
+  The game is currently live on the web and can be played [HERE](https://bit-shashank.github.io/CityRunner/)
 
 # StoryLine
   Sristi is a cute little girl, she is on her way home. She is afraid of dogs and doesn't like them.
